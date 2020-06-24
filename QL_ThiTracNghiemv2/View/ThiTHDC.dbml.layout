@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ThiTHDC">
+  <DataContextMoniker Name="/ThiTHDCDataContext" />
+  <nestedChildShapes>
+    <classShape Id="7ee88fcd-bbde-4708-9ce8-3b3bfb41b132" absoluteBounds="4.125, 1.125, 2, 2.5401025390625">
+      <DataClassMoniker Name="/ThiTHDCDataContext/CauHoi" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0c77a73d-ddc9-4aab-902c-38d725b91a7b" absoluteBounds="4.14, 1.585, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b71cbd74-97ec-408e-8006-b76d10f09550" absoluteBounds="1.125, 1.125, 2, 1.9631982421875">
+      <DataClassMoniker Name="/ThiTHDCDataContext/SinhVien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="063bee9f-e3d4-4d28-9bb0-c68a258fc04b" absoluteBounds="1.1400000000000001, 1.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

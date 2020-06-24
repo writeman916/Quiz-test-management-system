@@ -1,0 +1,10 @@
+E:\C# project\QL_ThiTracNghiemv2\QL_ThiTracNghiemv2\bin\Debug\QL_ThiTracNghiemv2.exe.config
+E:\C# project\QL_ThiTracNghiemv2\QL_ThiTracNghiemv2\bin\Debug\QL_ThiTracNghiemv2.exe
+E:\C# project\QL_ThiTracNghiemv2\QL_ThiTracNghiemv2\bin\Debug\QL_ThiTracNghiemv2.pdb
+E:\C# project\QL_ThiTracNghiemv2\QL_ThiTracNghiemv2\obj\Debug\QL_ThiTracNghiemv2.csprojResolveAssemblyReference.cache
+E:\C# project\QL_ThiTracNghiemv2\QL_ThiTracNghiemv2\obj\Debug\QL_ThiTracNghiemv2.DangNhap.resources
+E:\C# project\QL_ThiTracNghiemv2\QL_ThiTracNghiemv2\obj\Debug\QL_ThiTracNghiemv2.Form1.resources
+E:\C# project\QL_ThiTracNghiemv2\QL_ThiTracNghiemv2\obj\Debug\QL_ThiTracNghiemv2.Properties.Resources.resources
+E:\C# project\QL_ThiTracNghiemv2\QL_ThiTracNghiemv2\obj\Debug\QL_ThiTracNghiemv2.csproj.GenerateResource.Cache
+E:\C# project\QL_ThiTracNghiemv2\QL_ThiTracNghiemv2\obj\Debug\QL_ThiTracNghiemv2.exe
+E:\C# project\QL_ThiTracNghiemv2\QL_ThiTracNghiemv2\obj\Debug\QL_ThiTracNghiemv2.pdb
